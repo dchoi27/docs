@@ -13,8 +13,6 @@ Most data on the internet is stored with one of the large data storage companies
 
 So instead of paying for restrictive and expensive data storage sevices, developers can store their data with _decentralized_ storage services. However, for the most part, these decentralizsed storage services are difficult to manage, and make data storage significantly more complicated. Most decentralized storage services need you to compile your data into a specific format, find a storage provider to host your data, buy some cryptocurrency to pay the storage provider, and _then_ send your data across the internet. This is where Web3.Storage comes in!
 
-All you need to use Web3.Storage is an API token and some data. Web3.Storage hides the complicated and obstructive parts of data-storage so that you, the developer, can get on with building what you want! Take a look at the [quickstart guide below to get started ↓](#quickstart)
-
 ## Quickstart
 
 Get up and running quickly by following these simple steps! We're going to sign up to Web3.Storage, get an API token, create a script to upload a file, and then view that file in the browser.
