@@ -3,7 +3,9 @@ title: Welcome
 description: "Web3.Storage lets you decentralizse your data storage without all the complexities of the d-web."
 ---
 
-# Better storage. <br>Better transfers. <br>Better internet.
+# Better storage. Better transfers. Better internet.
+
+> All you need to use Web3.Storage is an API token and some data — no need to wrangle with the complicated and obstructive details of data storage. Get up and running fast with this simple [quickstart guide](#quickstart).
 
 Most data on the internet is stored with one of the large data storage companies. While companies like Amazon, Google, and Microsoft make is fairly easy for developer to store their application data, their services come with a whole host of terms and restrictions about what data can be stored, when it can be access, and who actually _owns_ that data! Not to mention, these services can be incredibly expensive, and cause developers to rack up huge bills without even knowing!
 
